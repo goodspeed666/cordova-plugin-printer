@@ -74,4 +74,4 @@ Made with :yum: from Leipzig
 [xcode_io_tools]: http://justabeech.com/2015/01/12/hardware-io-tools-for-xcode/
 [mupdf]: http://www.mupdf.com
 [apache2_license]: http://opensource.org/licenses/Apache-2.0
-[appplant]: www.appplant.de
+[appplant]: http://www.appplant.de
